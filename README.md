@@ -17,8 +17,8 @@
 - income_plan — планируемый доход,
 - income_fact/income_plan — отношение фактического дохода к запланированному.
 ## Решение:
-- Составленная схема БД представлена на ER-диаграмме по ссылке: (<code>[DATA_MART.png]()</code>);
-- Скрипт запроса на создание витрины: (<code>[quest.sql]()</code>).
+- Составленная схема БД представлена на ER-диаграмме по ссылке: (<code>[DATA_MART.png](https://github.com/La-Haine-0/DE-DB-2.5-DATA_MART/blob/main/DATA_MART.png)</code>);
+- Скрипт запроса на создание витрины: (<code>[quest.sql](https://github.com/La-Haine-0/DE-DB-2.5-DATA_MART/blob/main/quest.sql)</code>).
 ## Запуск проекта:
 Для просмотра проекта достаточно склонировать его себе на локальный компьютер, иметь установленным docker-compose и ввести команду:
 ```sh
